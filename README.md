@@ -6,7 +6,8 @@ Praticar as States usando o método de Class.
 
 ### GIF das funcionalidades
 
-<a href="https://imgflip.com/gif/4n2kat">via Imgflip</a>
+![Alt Text](https://imgflip.com/gif/4n2kat">via Imgflip)
+
 
 ## Como executar este app:
 #### Clone este repositório
