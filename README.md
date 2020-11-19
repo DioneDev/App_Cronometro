@@ -6,7 +6,7 @@ Praticar as States usando o método de Class.
 
 ### GIF das funcionalidades
 
-
+![Hnet-image (1)](https://user-images.githubusercontent.com/73083955/99725517-06a5fd00-2a94-11eb-85db-25bf252eb85f.gif)
 
 ## Como executar este app:
 #### Clone este repositório
