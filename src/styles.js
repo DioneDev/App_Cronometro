@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
 	timer:{
 		marginTop:-160,
 		color:'#12e4e7',
-		fontSize:65,
+		fontSize:66,
 		fontWeight:'bold'
 	},
 	btnArea:{
