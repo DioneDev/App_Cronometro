@@ -5,7 +5,7 @@
 Praticar as States usando o método de Class.
 
 ### GIF das funcionalidades
-![]()
+![](AppCronometro.gif)
 
 ## Como executar este app:
 #### Clone este repositório
